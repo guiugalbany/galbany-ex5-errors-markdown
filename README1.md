@@ -4,7 +4,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 
 ## Plataformes suportades
 - PC
--Consola
+- Consola
 -Mobile
 
 ## Llistat de jocs Populars
