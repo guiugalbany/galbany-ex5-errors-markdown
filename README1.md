@@ -33,7 +33,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 - Targeta gràfica de 64MB
 
 ## Notes addicionals
-**Actualitzacions* trimestrals
+**Actualitzacions** trimestrals
 Compatibilitat amb VR (proximament)
 
 ##Contacte
