@@ -13,7 +13,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 3. Tetris
 4. Sonic the Hedgehog
 
-##Característiques
+## Característiques
 - Grafics pixelats increïbles
 - Banda sonora *8-bits emocionant
 - Suport per comandaments inalàmbrics
