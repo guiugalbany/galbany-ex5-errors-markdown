@@ -2,8 +2,8 @@
 
 Benvigut a la plataforma definitiva de **Videojocs** retro.
 
-##Plataformes suportades
--PC
+## Plataformes suportades
+- PC
 -Consola
 -Mobile
 
