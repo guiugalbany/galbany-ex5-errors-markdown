@@ -36,7 +36,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 **Actualitzacions** trimestrals
 Compatibilitat amb VR (proximament)
 
-##Contacte
+## Contacte
 Segueix-nos a Instagram Facebook Twitter!
 
 ##Crèdits:
