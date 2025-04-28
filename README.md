@@ -19,25 +19,26 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 - Suport per comandaments inalàmbrics
 
 ## Funcionalitats Properes
-|Funcionalitat|Disponibilitat
-|Multijugador|En desenvolupament
-|Tornejos en línia|2026
+|Funcionalitat    |Disponibilitat    |
+|-----------------|------------------|
+|Multijugador     |En desenvolupament|
+|Tornejos en línia|2026              |
 
 ## Premis i Reconexements:
 * Millor joc retro 2023
 * Premi a la millor jugabilitat
 
-###Requisits de sistema
+### Requisits de sistema
 - Windows XP o superior
-512MB RAM
-Targeta gràfica de 64MB
+- 512MB RAM
+- Targeta gràfica de 64MB
 
-##Notes addicionals
-**Actualitzacions* trimestrals
+## Notes addicionals
+**Actualitzacions** trimestrals
 Compatibilitat amb VR (proximament)
 
-##Contacte
+## Contacte
 Segueix-nos a Instagram Facebook Twitter!
 
-##Crèdits:
+## Crèdits:
 Equip RetroGaming
