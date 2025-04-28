@@ -15,7 +15,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 
 ## Característiques
 - Grafics pixelats increïbles
-- Banda sonora *8-bits emocionant
+- Banda sonora **8-bits** emocionant
 - Suport per comandaments inalàmbrics
 
 ##Funcionalitats Properes
