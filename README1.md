@@ -27,7 +27,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 * Millor joc retro 2023
 * Premi a la millor jugabilitat
 
-###Requisits de sistema
+### Requisits de sistema
 - Windows XP o superior
 512MB RAM
 Targeta gràfica de 64MB
